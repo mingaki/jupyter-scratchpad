@@ -48,8 +48,4 @@ pandas
 pyarrow
 
 # extensions
-jupyterlab-code-formatter
-isort
-black
-
 jupyterlab-vim
