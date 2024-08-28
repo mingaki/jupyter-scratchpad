@@ -45,9 +45,11 @@ bqplot
 
 # data science
 pandas
-polars
+pyarrow
 
 # extensions
-jupyterlab-lsp
 jupyterlab-code-formatter
+isort
+black
+
 jupyterlab-vim
